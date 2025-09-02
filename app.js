@@ -7,7 +7,7 @@ app.use(express.static('public'));
 
 // Sample route
 app.get('/', (req, res) => {
-    res.send('Welcome to the Continuous Integration Pipeline Automator!');
+    res.send('Welcome to the CI Pipeline Automator!');
 });
 
 app.listen(PORT, () => {
