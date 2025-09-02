@@ -7,7 +7,7 @@ We welcome contributions to enhance the CI Pipeline Automator project. Here are 
 2. Create a feature branch (`git checkout -b feature/YourFeatureName`).
 3. Make your changes and commit them (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/YourFeatureName`).
-5. Run tests to ensure everything works (`npm test`).
+5. Run tests to ensure everything works (`make test`).
 6. Open a pull request.
 
 ## Guidelines
